@@ -1,0 +1,28 @@
+body, html { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.product-text {
+    font-size: 2vmin;
+}
+
+.product-title {
+    font-size: 4vmin;
+}
+.product-info {
+    display: grid;
+    grid-template-rows: 5vmin 2vmin auto;
+    grid-gap: 1vmin;
+    text-align: left;
+}
+
+.product-image {
+    vertical-align: middle;
+    margin: auto;
+    height:50vmin;
+}
+
+
+
+a { 
+    text-decoration: none;
+}

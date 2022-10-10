@@ -1,0 +1,113 @@
+{
+    "go-pro-4": {
+        "title":"GoPro Hero Pro 4 Black",
+        "description":"4k 30FPS, 2.7K 60FPS Action Camera",
+        "image":"https://m.media-amazon.com/images/I/51xtoYZlZZL._AC_.jpg",
+        "link":"https://amzn.to/3CjMM9p"
+    },
+    
+    "go-pro-screw": {
+        "title":"GoPro Thumbscrew",
+        "description":"Thumbscrew for attaching your GoPro to mounts",
+        "image":"https://m.media-amazon.com/images/I/61D-LngpSsL._AC_SL1000_.jpg",
+        "link":"https://amzn.to/3SZeoHM"
+    },
+    
+    "go-pro-5": {
+        "title":"GoPro Hero 5 Black",
+        "description":"Action camp, water-proof up to 33 feet",
+        "image":"https://m.media-amazon.com/images/I/71-r4dSci1L._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3Vi0ORy"
+    },
+    
+    "go-pro-usb": {
+        "title":"Portable GoPro Charger with Cable",
+        "description":"GoPro external charger with USB cable. Water resistant.",
+        "image":"https://m.media-amazon.com/images/I/91KRP1BJRbL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3CjNFPh"
+    },
+    
+    "go-pro-dual-mount": {
+        "title":"Twin Mount for GoPro Cameras",
+        "description":"Allows you to mount 2 GoPro cameras to the same mount. Mount points can be rotated by 90 degrees, giving you 4 directions for which you could point the cameras.",
+        "image":"https://m.media-amazon.com/images/I/51sQm2xpegL._AC_SL1000_.jpg",
+        "link":"https://amzn.to/3s18Q4d"
+    },
+    
+    "gear-360": {
+        "title":"Gear 260",
+        "description":"(discontinued for 2017 edition) GoPro 360-video and photo camera. For making 360 content for social media. ",
+        "image":"https://m.media-amazon.com/images/I/71jLkFGvmLL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3SMXuwc"
+    },
+    
+    "sigma-70-300": {
+        "title":"Sigma 70-300mm lens",
+        "description":"70-300mm lens with auto focus for micro 4/3 mount cameras.",
+        "image":"https://m.media-amazon.com/images/I/41ZE01AQ1NL._AC_.jpg",
+        "link":"https://amzn.to/3Vd8zZc"
+    },
+    
+    "canon-24-105": {
+        "title":"24-105mm Canon lens",
+        "description":"24-105mm EF Mount lens for full-frame cameras",
+        "image":"https://m.media-amazon.com/images/I/81N2rtBLbsL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3EudnmP"
+    },
+    
+    "rokinon-85": {
+        "title":"Rokinon 85mm Lens",
+        "description":"Rokinon 85mm cinema lens",
+        "image":"https://m.media-amazon.com/images/I/61wvbe1Hn8L._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3CK75hG"
+    },
+    
+    "rokinon-10": {
+        "title":"Rokinon 10mm Lens",
+        "description":"Rokinon 10mm lens",
+        "image":"https://m.media-amazon.com/images/I/91AC7ajIYDL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3SR4Tuq"
+    },
+    
+    "gopro-tripple-battery-charger": {
+        "title":"GoPro Battery Charger",
+        "description":"Chargers up to 3 GoPro batteries for your GoPro 9 or GoPro 10.",
+        "image":"https://m.media-amazon.com/images/I/71C8HNzJQlL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3rLpm8d"
+    },
+    
+    "canon-135": {
+        "title":"Canon 135mm Lens",
+        "description":"135mm focal length, Closest focusing distance: 3 feet. Ultra-low Dispersion glass with Fluorite elements; inner focusing ring",
+        "image":"https://m.media-amazon.com/images/I/815WeH0MXxL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3EpdXm2"
+    },
+    
+    "canon-16-35": {
+        "title":"Canon 16-35mm lens",
+        "description":"Canon 16-35mm lens",
+        "image":"https://m.media-amazon.com/images/I/71V6ntjPKGL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3rGrqOy"
+    },
+    
+    "ttartisan-35mm": {
+        "title":"TT Artisan 35mm Lens",
+        "description":"APS-C lens for C-mount cameras",
+        "image":"https://m.media-amazon.com/images/I/51KaHRw50qL._AC_SL1001_.jpg",
+        "link":"https://amzn.to/3Ci4wCh"
+    },
+    
+    "tamron-f-teleconverter": {
+        "title":"Tamron Teleconverter",
+        "description":"1.4x teleconverter adapter for Canon EF lenses",
+        "image":"https://m.media-amazon.com/images/I/31PREX1TQNL._AC_.jpg",
+        "link":"https://amzn.to/3MiEdQN"
+    },
+    
+    "memory-card-reader": {
+        "title":"Memory Card Reader",
+        "description":"xxxxxxx",
+        "image":"https://m.media-amazon.com/images/I/51txZQfnVnL._AC_SL1500_.jpg",
+        "link":"https://amzn.to/3EsqvJc"
+    }
+}
